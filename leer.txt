@@ -1,0 +1,9 @@
+Ficheros de métricas Bert (cambiando parámetros y aumento y emociones)
+
+Ficheros métricas Roberta multihead (añadiendo emociones como prompt y concatenando entre capas intermedias)
+
+Notebooks Bert base, Roberta multihead y Roberta large.
+
+Datos de train originales, limpios y con emociones
+
+Datos de test originales y limpios.
